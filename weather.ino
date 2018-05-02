@@ -283,7 +283,7 @@ const unsigned char sun [] PROGMEM = {
 
  //  void connect_to_wifi() {
 //   const char* ssid = "Shyam";
-//   const char* password = "8056116667";
+//   const char* password = "password";
 //   WiFi.begin(ssid, password);
 //   
 //   while (WiFi.status() != WL_CONNECTED) {
